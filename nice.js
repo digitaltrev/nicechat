@@ -8,4 +8,4 @@
 
 cxone('init', '5553');
 cxone('guide','init');
-xone('chat', 'setCaseCustomField', 'authenticated_page', 'no');
+cxone('chat', 'setCaseCustomField', 'authenticated_page', 'no');
